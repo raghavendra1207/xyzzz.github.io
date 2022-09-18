@@ -1,2 +1,2 @@
-const a="adjfkl";
+const a="adjf";
 console.log(a);
